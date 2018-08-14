@@ -8,7 +8,7 @@ function setBestCustomer() {
 function overWriteBestCustomer() {
   bestCustomer = `maybe bob`;
 }
-let leastFavoriteCustomer;
+const leastFavoriteCustomer = `you`;
 function changeLeastFavoriteCustomer() {
-  leastFavoriteCustomer = `me`
+  leastFavoriteCustomer = `me`;
 }
