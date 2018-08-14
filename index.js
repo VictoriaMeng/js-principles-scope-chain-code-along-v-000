@@ -6,5 +6,5 @@ function setBestCustomer() {
   bestCustomer = `not bob`;
 };
 function overWriteBestCustomer() {
-  bestCustomer
+  bestCustomer = `maybe bob`
 }
